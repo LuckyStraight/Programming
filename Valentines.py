@@ -33,7 +33,7 @@ def write():
 
     sharda = turtle.Turtle()
     sharda.color("maroon")
-    sharda.write("Happy Valentines Day\n I love You Mamas", align = "center", font = ("Papyrus",24,"bold"))
+    sharda.write("Happy Valentines Day\n I love You", align = "center", font = ("Papyrus",24,"bold"))
     sharda.hideturtle()
 
 write()
