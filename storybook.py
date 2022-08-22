@@ -1,3 +1,8 @@
+#Joshua Khooba
+#COP 2500.0001
+#Day 1 Assignemnt 0
+#Aug 22, 2022
+
 from tabulate import tabulate
 
 #story Data
