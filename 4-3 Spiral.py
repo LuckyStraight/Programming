@@ -26,7 +26,7 @@ def draw_spiral(length, angle, step, min_length): #parameters based on the prese
 
 #call to test the function above with the necessary parameters
 def main():
-    draw_spiral(length = 250, angle = 200, step = 1, min_length = 20)
+    draw_spiral(length = 250, angle = 150, step = 2, min_length = 20)
     wn.mainloop()
 
 main()
